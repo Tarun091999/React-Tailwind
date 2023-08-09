@@ -5,7 +5,7 @@ export default function Cards(props)
     console.log(cardContent)
     return (
         <>
-        <div className="flex flex-col  w-[20vw] h-auto shadow-2xl">
+        <div className="flex flex-col  md:w-[20vw] sm:w-[100%] md:mb-0 mb-10 h-auto shadow-2xl">
          
          <div className="bg-slate-500 h-[10px] ">
           
